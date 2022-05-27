@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C#,OOP,Mssql etc.**
 
-- 📫 How to reach me **m.eminersoz@outlook.com.tr**
+- 📫 How to reach me **m.eminersoz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
