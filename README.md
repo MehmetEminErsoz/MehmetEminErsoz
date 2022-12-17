@@ -2,9 +2,6 @@
 <h3 align="center">A backend developer from Burdur/Turkey</h3>
 
 
-
-- 🔭 I’m currently working on [Qr Menu project.](https://github.com/MehmetEminErsoz/Menu)
-
 - 🌱 I’m currently learning **AI/ML, Design patterns and software principles etc.**
 
 - 💬 Ask me about **C#,OOP,Mssql etc.**
