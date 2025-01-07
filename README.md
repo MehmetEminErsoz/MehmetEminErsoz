@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A backend developer from Burdur/Turkey</h3>
+<h3 align="center">A backend developer from Turkey</h3>
 
 
 - 🌱 I’m currently learning **AI/ML, Design patterns and software principles etc.**
 
 - 💬 Ask me about **C#,OOP,Mssql etc.**
 
-- 📫 How to reach me **m.eminersoz@outlook.com**
+- 📫 How to reach me: **m.eminersoz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
